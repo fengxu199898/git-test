@@ -7,6 +7,6 @@ public class GitTest {
         System.out.println("agsdag");
         System.out.println("hello hot-fix");
         System.out.println("hello hot-fix1");
-        System.out.println("hello hot-fix333");
+        System.out.println("push test");
     }
 }
